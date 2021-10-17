@@ -1,0 +1,2 @@
+Ola, esse codigo foi desenvolvido atraves de um pequeno projeto dirigido por Rodolfo Mori, foi a primeira vez que consegui colocar alguns dos conceitos ja aprendidos em pratica.
+Consiste em um organizador de tarefas em que o usuario pode adicionar tarefas, excluir e as marcar como concluidas. No desenvolvimento desse projeto foram usadas as tecnologias HTML, CSS e JavaScript.
